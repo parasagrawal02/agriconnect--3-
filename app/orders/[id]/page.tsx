@@ -26,7 +26,7 @@ const mockOrders = [
         quantity: 5,
         unit: "kg",
         image: "https://3.bp.blogspot.com/-60C2IZuUtkA/Tmn_yCEmpII/AAAAAAAAABs/a2ECZR-cVQA/s1600/tomato.jpg",
-        farmer: "John Smith",
+        farmer: "Paras Agrawal",
       },
       {
         id: "3",
@@ -35,7 +35,7 @@ const mockOrders = [
         quantity: 2,
         unit: "dozen",
         image: "https://tse1.mm.bing.net/th?id=OIP.Z5AjPklue_m2vVzcsddmBgHaGI&pid=Api&P=0&h=180",
-        farmer: "David Johnson",
+        farmer: "Mayank Gaur",
       },
       {
         id: "4",
@@ -44,7 +44,7 @@ const mockOrders = [
         quantity: 10,
         unit: "kg",
         image: "https://tse3.mm.bing.net/th?id=OIP.kori7Y8NQzmHi4RLlD-T9AHaE5&pid=Api&P=0&h=180",
-        farmer: "Sarah Williams",
+        farmer: "Pushpendra Singh",
       },
     ],
     shipping: {
@@ -136,7 +136,7 @@ const mockOrders = [
         quantity: 8,
         unit: "kg",
         image: "/images/apples.png",
-        farmer: "Sarah Williams",
+        farmer: "Pushpendra Singh",
       },
       {
         id: "5",
@@ -145,7 +145,7 @@ const mockOrders = [
         quantity: 4,
         unit: "liter",
         image: "/images/milk.png",
-        farmer: "Michael Brown",
+        farmer: "Anjali Singh",
       },
       {
         id: "8",
@@ -154,7 +154,7 @@ const mockOrders = [
         quantity: 5,
         unit: "basket",
         image: "/images/strawberries.png",
-        farmer: "Jennifer Lee",
+        farmer: "Yash Agrawal",
       },
       {
         id: "3",
@@ -163,7 +163,7 @@ const mockOrders = [
         quantity: 3,
         unit: "dozen",
         image: "/images/eggs.png",
-        farmer: "David Johnson",
+        farmer: "Mayank Gaur",
       },
       {
         id: "1",
@@ -172,7 +172,7 @@ const mockOrders = [
         quantity: 10,
         unit: "kg",
         image: "/images/tomatoes.png",
-        farmer: "John Smith",
+        farmer: "Paras Agrawal",
       },
     ],
     shipping: {

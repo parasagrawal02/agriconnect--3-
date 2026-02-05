@@ -15,7 +15,7 @@ import { Search, Send, Phone, Video, MoreHorizontal } from "lucide-react"
 const mockContacts = [
   {
     id: "1",
-    name: "John Smith",
+    name: "Paras Kumar",
     role: "Farmer",
     avatar: "/placeholder.svg?height=40&width=40",
     lastMessage: "I have those tomatoes you asked about",
@@ -25,7 +25,7 @@ const mockContacts = [
   },
   {
     id: "2",
-    name: "Green Grocers",
+    name: "joy Agrawal",
     role: "Retailer",
     avatar: "/placeholder.svg?height=40&width=40",
     lastMessage: "Can you deliver by Thursday?",
@@ -35,7 +35,7 @@ const mockContacts = [
   },
   {
     id: "3",
-    name: "Maria Garcia",
+    name: "Mayank Gaur",
     role: "Farmer",
     avatar: "/placeholder.svg?height=40&width=40",
     lastMessage: "The price sounds good to me",
@@ -45,7 +45,7 @@ const mockContacts = [
   },
   {
     id: "4",
-    name: "Fresh Market",
+    name: "Anjali Singh",
     role: "Retailer",
     avatar: "/placeholder.svg?height=40&width=40",
     lastMessage: "We need 20kg of apples for next week",
@@ -55,7 +55,7 @@ const mockContacts = [
   },
   {
     id: "5",
-    name: "David Johnson",
+    name: "Pushpendra Singh",
     role: "Farmer",
     avatar: "/placeholder.svg?height=40&width=40",
     lastMessage: "Let me know if you need anything else",
